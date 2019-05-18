@@ -3,7 +3,13 @@ A project to create a cleaned dataset from the scholarship data collected from h
 
 ## Part 1 - Web Scraping
 
-The data was scraped from a leading educational consultancy.
+The scholarship data was scraped from a leading educational consultancy.
+
+**How does it work?**
+
+
+
+- 
 
 ## Part 2 - Data Cleaning
 
