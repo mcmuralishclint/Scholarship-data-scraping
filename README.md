@@ -16,3 +16,12 @@ The scholarship data was scraped from a leading educational consultancy.
 ## Part 2 - Data Cleaning
 
 The scraped data was very untidy and contained many un-clean data. 
+The whole project was divided into 7 parts.
+
+- PART 1-Convert start date to two columns (Month, Year)
+- PART 2-Convert the contents of the field Tuition Covered
+- PART 3-Convert the contents of the field Accomodation Covered
+- PART 4-Convert the contents of the field Living expense Covered
+- PART 5-Convert tuition fees, original tuition fees to pay to currency (RMB)
+- PART 6-Convert Accomodation to pay to two fields (Accomodation price, Accomodation duration)
+- PART 7-Convert Living expense to pay to two fields (living expense , living duration)
